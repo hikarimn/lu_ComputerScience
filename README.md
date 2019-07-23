@@ -1,4 +1,5 @@
 # A guide to landing on internship as a CS major from liberal arts college in rural Wisconsin
+This title is temporary 
 
 ## Index
 * [Preparation]()
@@ -18,7 +19,7 @@
 
 NOTE: The title says landing on internship, but most of the things are the same for landing on full-time job, I guess...  
 ANOTHER NOTE: I am not an expert, but have went through internship recruiting twice. This article is about what I learned from that and what I wish I knew when I was a freshman or a sophomore.
-THE OTHER NOTE: **[An important thing](https://www.linkedin.com/posts/garyvaynerchuk_in-my-20s-many-of-my-friends-were-more-successful-activity-6557380766710452224-T5jm)** to keep in mind</br>
+THE OTHER NOTE: **[An important thing](https://www.linkedin.com/posts/garyvaynerchuk_in-my-20s-many-of-my-friends-were-more-successful-activity-6557380766710452224-T5jm)** to keep in mind
 
 Intended readers of this article are those who hope to get into one or more of following career fields:
  * Software Engineering
@@ -56,7 +57,7 @@ The type of experience you want to have varies depending on what career path you
 
 
 #### Course Review
-See [this](https://github.com/hikarimn/luvista/blob/master/docs/courses.md)
+See [this](https://github.com/hikarimn/lu_cs/blob/master/courses.md)
 
 
 ### Resume/Coverletter
@@ -65,13 +66,13 @@ See [this](https://github.com/hikarimn/luvista/blob/master/docs/courses.md)
 
 ### Networking/Alumni/Recruiter Connection
 #### Recruiters 
-Go to career forum hosted by LU Career Services in Fall</br> 
-After meeting, send emails and LinkedIn request to the people you met</br> 
-Ask if you can speak to them more about companies on call</br>
+Go to career forum hosted by LU Career Services in Fall.
+After meeting, send emails and LinkedIn request to the people you met.
+Ask if you can speak to them more about companies on call.
 Cold emails/messages may work
 #### Alumni 
-Use LinkedIn, Voyager directory, Career Services to find alumni who seem to be doing works of your interest, email to them </br>
-Ask for a coffee/phone call/email exchange to know more about them and their works</br>
+Use LinkedIn, Voyager directory, Career Services to find alumni who seem to be doing works of your interest, email to them.
+Ask for a coffee/phone call/email exchange to know more about them and their works.
 If possible, ask them about recruiting information they know
 #### Organization
 (Women in Tech) Be on their email lists
@@ -83,14 +84,15 @@ If possible, ask them about recruiting information they know
 and many more
 
 #### Career Fair/Conferences/Events
-* https://www.xterns.com - A website listening tech/business/non-profits short-term events sponsored by variety of companies and organizations
-* (Women in Tech) https://github.com/Ladies-Storm-Hackathons/GHC-Scholarships - A github repo listing scholarships information for [Grace Hopper Celebration](https://ghc.anitab.org). Sometimes there are incorrect info, I recommend checking pull request/issues regulary and official company/organization websites
+* [Externs.com](https://www.xterns.com) - A website listening tech/business/non-profits short-term events sponsored by variety of companies and organizations
+* (Women in Tech) [A list of GHC Scholarships](https://github.com/Ladies-Storm-Hackathons/GHC-Scholarships) - A github repo listing scholarships information for [Grace Hopper Celebration](https://ghc.anitab.org). Sometimes there are incorrect info, I recommend checking pull request/issues regulary and official company/organization websites
+* [This super usuful website listing scholarhsip information for CS conferences](https://techlovers2020.github.io/Opportunities/)
 * HACKATHON! - A great opportunity to network with people including recruiters and to learn new tools (i.g., MadHacks @UWMadison)
 
 ### Interviews
 * [This post](https://medium.com/@sophia.onion/software-engineer-job-search-resources-94206f03affb) by Lawrence CS alumna 
-* https://leetcode.com
-* [Cracking The Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850) A book that has everything, does not a lot of questions imo, good for entry point (but physically heavy)
+* [Leetcode](https://leetcode.com)
+* [Cracking The Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850) - A book that has everything, does not a lot of questions imo, good for entry point (but physically heavy)
 
 ## Getting an internship
 Start early!!!!
@@ -100,6 +102,6 @@ Start early!!!!
 
 (I will add more. Wait for it)
 
-</br>
 
-[Back to Top](https://gist.github.com/hikarimn/17b3672066a6e7987c5777a408111cfb#file-acareerdev-md)
+
+[Back to Top](https://hikarimn.github.io/lu_cs/)
