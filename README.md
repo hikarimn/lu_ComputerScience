@@ -1,107 +1,104 @@
-# A guide to landing on internship as a CS major from liberal arts college in rural Wisconsin
-This title is temporary 
-
-## Index
-* [Preparation]()
-    * [Getting Experiences]()
-        * [Personal Project]()
-        * [On campus Organization]()
-        * [On campus Employment]()
-        * [Hackathon]()
-    * [Resume/Coverletter]()
-    * __[Networking]()__
-        * [Alumni Network]()
-        * [Event/Conference/Career Fair/Hackathon]()
-        * [Organization/Community]()
-    * [Interviews]()
-* [Applying to internships]()
-
-
-NOTE: The title says landing on internship, but most of the things are the same for landing on full-time job, I guess...  
-ANOTHER NOTE: I am not an expert, but have went through internship recruiting twice. This article is about what I learned from that and what I wish I knew when I was a freshman or a sophomore.
-THE OTHER NOTE: **[An important thing](https://www.linkedin.com/posts/garyvaynerchuk_in-my-20s-many-of-my-friends-were-more-successful-activity-6557380766710452224-T5jm)** to keep in mind
-
-Intended readers of this article are those who hope to get into one or more of following career fields:
+The title says landing on internship, but preparation part is almost same for landing on full-time job imo. <br/>
+As a person who goes to liberal arts college (LAC), LAC students tend to be surrounded by less information about career development compared to those who go to big universities. 
+This website aims to provide students at Lawrence with concrete, useful, and up-to-date resources. These are what I wish I knew when I was a freshman or a sophomore.
+<br/>
+Intended audiences of this website are those who hope to get into one or more of following career fields:
  * Software Engineering
  * Product Management
  * Data Science
 
-and those who go to liberal arts college (or small college) in rural part of country where no recruiters bother to visit. Also, if you just do not know what exacly you want to do but think Comptuer Science seem interesting, I recommend trying out stuff suggested under Software Engineering.
+ #### Contributing 
+ Currently, I am activity editing this website. If you find incorrect information or typo, please send a pull request. If you are not familiar with Github, just open an [Issue](https://github.com/hikarimn/lu_ComputerScience/issues). <br/>
 
-## Preparation
-### Getting experiences
-When you first think about applying for jobs, you need a resume, but before you start making a resume,
-you need to have something to write on the resume, experiences. 
-Here are the things you can do to gain more experience and put on your resume.
+Have questions? Ask [here](https://github.com/hikarimn/lu_ComputerScience/issues).
+# Index
+* [Preparation](#preparation)
+    * [Getting Experiences](#getting-experiences)
+        * [Personal Project](#personal-project)
+        * [Course Project](#course-project)
+        * [Hackathon](#hackathon)
+        * [On campus Organization](#on-campus-organization)
+        * [On campus Employment](#on-campus-employment)
+       
+    * [Resume](#resume)
+    * [Networking](#networking)
+        * [Recruiters](#recruiters)
+        * [Alumni](#alumni)
+        * [Community Organization](#community-organization)
+        * [Career fair and other events](#career-fair-and-other-events)
+    * [Interviews](#technical-interviews)
+* [Getting an Internships Offer](#getting-an-internship-offer)
+
+
+# Preparation
+## Getting experiences
+Before you start making a resume, you need to have stuff to put on your resume!
+
+### Projects
+It is standard that a resume for technical roles has a project section. The next three are things you are encouraged to include in your resume.
 
 #### Personal Project
-I highley recommend starting this as soon as possible. The project can be small, [a simple Java game](http://zetcode.com/tutorials/javagamestutorial/) or [a single page of webpage with HTML](https://coder-coder.com/how-to-make-simple-website-html/) for instance. 
+I highley recommend starting this as soon as possible. The project can start small, [a simple Java game](http://zetcode.com/tutorials/javagamestutorial/) or [a single page of webpage with HTML](https://coder-coder.com/how-to-make-simple-website-html/) for instance. It is a good practice to come up with some software solution to your daily issues.
 
 #### Course Project
-You can call stuff you made in course as a project. For example, when you made a website in Web Client Programming class, you can call it a project. When an ssignments you completed in a course is presentable, you can call it a project (You just need to be able to explain what you accomplished in the project).
-
-#### On-campus Organization
-* Makerspace
-* Women in Computer Science - I will start running Fall 2019 Woohoo
-
-#### On-campus Employment
-Most of them do recruiting in Spring Term, watch out @ Handshake
-* Student Web Developer - Web Development - a few students every year
-* IT Assistant - IT - a few students every tear
-* Tech Crew @ Warch - Some kind of engineer I guess
-* Research Assistant @ CS/Math dept. - one every year
+You can call stuff you made in course as a project. For example, when you made a website front-end in Web Client Programming class, you can call it a project. When an ssignments you completed in a course is presentable, you can call it a project (You just need to be able to explain what you accomplished in the project). For more information about classes at Lawrence, see [this](https://github.com/hikarimn/lu_cs/blob/master/courses.md).
 
 #### Hackathon
-
-The type of experience you want to have varies depending on what career path you hope to go. For example, if you are interested in Data Science field, you can start searching "Data Scientist skills" in Google.
-
-
-#### Course Review
-See [this](https://github.com/hikarimn/lu_cs/blob/master/courses.md)
+When you have time, I recommend to go to Hackathon. It is a great place to learn new skills and tools, work on projects that you can put on resume, and network with recruiters. Some hackathon covers a part of your traveling cost. Check out each hackathon's website for more info. Find nearby hackathons [here](https://mlh.io/seasons/na-2019/events).
 
 
-### Resume/Coverletter
+### Work Experience
+#### On-campus Organization
+* Makerspace
+* Women in Computer Science - I plan to start running from Fall 2019 Woohoo
+
+#### On-campus Employment
+Most of them do recruiting in Spring Term, check Handshake regulary
+| Title | Department | Notes | # of students hired /year |
+|----------|----------|----------|----------|
+| Student Web Developer | IT | Web Dev. (PHP, frontend)| a few |
+| IT Assistant| IT | IT | a few |
+| Research Assistant | CS/Math fac. | Varies | zero or one |
+| Tech Crew | Warch | Varies | a few |
+
+
+## Resume
 * [This pdf](https://drive.google.com/file/d/10b9NZDhPbUOW_C7108IKe9ev6Ed2UG7F/view?usp=sharing) - Possibly the best guide for those who aim to be an engineer
 * [This email blog](https://2by22.blog) by a person in Strategy&Analytics @ Linkedin - Learn how to _strategically_ go through recruiting
 
-### Networking/Alumni/Recruiter Connection
+## Networking
+This section is under an active edit.
 #### Recruiters 
-Go to career forum hosted by LU Career Services in Fall.
-After meeting, send emails and LinkedIn request to the people you met.
-Ask if you can speak to them more about companies on call.
-Cold emails/messages may work
+Go to career forum hosted by LU Career Services in Fall. After meeting, send emails and LinkedIn request to the people you met. Ask if you can speak to them more about companies on call. <br/>
+Even cold emails/messages sometimes work. Don't know recruiters' email address? Check out this [Facebook Group](https://www.facebook.com/groups/2054888934622756/).
 #### Alumni 
-Use LinkedIn, Voyager directory, Career Services to find alumni who seem to be doing works of your interest, email to them.
-Ask for a coffee/phone call/email exchange to know more about them and their works.
-If possible, ask them about recruiting information they know
-#### Organization
+Use LinkedIn, Voyager directory, Career Services to find alumni who seem to be doing works of your interest, email to them. Ask for a coffee/phone call/email exchange to know more about them and their works. If possible, ask them about recruiting information they know
+#### Community Organization
 (Women in Tech) Be on their email lists
 * https://rewritingthecode.org
 * https://www.hiretechladies.com
 * https://girlswhocode.com
 * https://www.womentechmakers.com/membership
-* https://www.witwisconsin.com
+* https://www.witwisconsin.com <br/>
 and many more
 
-#### Career Fair/Conferences/Events
+#### Career Fair and other events
 * [Externs.com](https://www.xterns.com) - A website listening tech/business/non-profits short-term events sponsored by variety of companies and organizations
 * (Women in Tech) [A list of GHC Scholarships](https://github.com/Ladies-Storm-Hackathons/GHC-Scholarships) - A github repo listing scholarships information for [Grace Hopper Celebration](https://ghc.anitab.org). Sometimes there are incorrect info, I recommend checking pull request/issues regulary and official company/organization websites
 * [This super usuful website listing scholarhsip information for CS conferences](https://techlovers2020.github.io/Opportunities/)
-* HACKATHON! - A great opportunity to network with people including recruiters and to learn new tools (i.g., MadHacks @UWMadison)
 
-### Interviews
+### Technical Interviews
 * [This post](https://medium.com/@sophia.onion/software-engineer-job-search-resources-94206f03affb) by Lawrence CS alumna 
 * [Leetcode](https://leetcode.com)
 * [Cracking The Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850) - A book that has everything, does not a lot of questions imo, good for entry point (but physically heavy)
 
-## Getting an internship
+## Getting an internship offer 
+(I will add more. Wait for it)<br/>
 Start early!!!!
 
 ### Where to find postings
 * [This Github repo](https://github.com/elaine-zheng/summer2020internships/blob/master/README.md) for Summer 2020
 
-(I will add more. Wait for it)
-
-
-
-[Back to Top](https://hikarimn.github.io/lu_cs/)
+<div align="right">
+    <b><a href="#index">↥ back to top</a></b>
+</div>

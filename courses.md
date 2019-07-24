@@ -1,3 +1,7 @@
+This is a list of major courses offered at Lawrence.
+Open an issue if you find [errors](https://github.com/hikarimn/lu_ComputerScience/issues).
+
+
 | Subject   | Course Number | Title                                  | Description                            | Tools                 | Software Engineering | Product Management | Data Science |
 |-----------|---------------|----------------------------------------|----------------------------------------|-----------------------|----------------------|--------------------|--------------|
 | CMSC      | 106           | Web Client Programming                 | Frontend                               | HTML, CSS, JavaScript | x                    | x                  |              |
