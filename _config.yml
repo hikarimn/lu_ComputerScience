@@ -1,1 +1,8 @@
 theme: jekyll-theme-cayman
+title: lu_ComputerScience
+description: A guide to landing on internship as a CS major from liberal arts college in cheese State (This subtitle is temporary)
+url: https://hikarimn.github.io/lu_ComputerScience/
+author: hikarimn
+plugins:
+  - jekyll-seo-tag
+google_analytics: UA-136425166-1
