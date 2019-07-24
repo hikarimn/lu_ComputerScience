@@ -8,7 +8,7 @@ Intended audiences of this website are those who hope to get into one or more of
  * Data Science
 
  #### Contributing 
- Currently, I am activity editing this website. If you find incorrect information or typo, please send a pull request. If you are not familiar with Github, just open an [Issue](https://github.com/hikarimn/lu_ComputerScience/issues). <br/>
+ Currently, I am activity editing content for this website. If you find incorrect information or typo, please send a pull request. If you are not familiar with Github, just open an [Issue](https://github.com/hikarimn/lu_ComputerScience/issues). <br/>
 
 Have questions? Ask [here](https://github.com/hikarimn/lu_ComputerScience/issues).
 # Index
@@ -38,7 +38,11 @@ Before you start making a resume, you need to have stuff to put on your resume!
 It is standard that a resume for technical roles has a project section. The next three are things you are encouraged to include in your resume.
 
 #### Personal Project
-I highley recommend starting this as soon as possible. The project can start small, [a simple Java game](http://zetcode.com/tutorials/javagamestutorial/) or [a single page of webpage with HTML](https://coder-coder.com/how-to-make-simple-website-html/) for instance. It is a good practice to come up with some software solution to your daily issues.
+I highley recommend starting this as soon as possible. The project can start small, [a simple Java game](http://zetcode.com/tutorials/javagamestutorial/) or [a single page of webpage with HTML](https://coder-coder.com/how-to-make-simple-website-html/) for instance. It is a good practice to come up with some software solution to your daily issues. If you do not come up with a project idea, think about tools or languages that you hope to learn. <br/> 
+Here are some references 
+* [What are the projects a first year computer science student can do in the summer?](https://www.quora.com/What-are-the-projects-a-first-year-computer-science-student-can-do-in-the-summer)
+* [24 Ultimate Data Science Projects To Boost Your Knowledge and Skills](https://www.analyticsvidhya.com/blog/2018/05/24-ultimate-data-science-projects-to-boost-your-knowledge-and-skills/)
+* [How to Develop Project Ideas for Your UX Portfolio](https://uxmastery.com/how-to-develop-project-ideas-for-your-ux-portfolio/)
 
 #### Course Project
 You can call stuff you made in course as a project. For example, when you made a website front-end in Web Client Programming class, you can call it a project. When an ssignments you completed in a course is presentable, you can call it a project (You just need to be able to explain what you accomplished in the project). For more information about classes at Lawrence, see [this](https://github.com/hikarimn/lu_cs/blob/master/courses.md).
