@@ -55,12 +55,10 @@ When you have time, I recommend to go to Hackathon. It is a great place to learn
 
 #### On-campus Employment
 
-| Title | Department | Notes | # of students hired /year
-| ----- | ---------- | ----- |  ----- | 
-| Student Web Developer | IT | Web Dev. (PHP, frontend)| a few |
-| IT Assistant| IT | IT | a few |
-| Research Assistant | CS/Math fac. | Varies | zero or one |
-| Tech Crew | Warch | Varies | a few |
+ * Student Web Developer - IT - Web Dev. (PHP, frontend)
+ * IT Assistant - IT - IT
+ * Research Assistant - CS/Math faculty
+ * Tech Crew - Warch
 
 Most of them do recruiting in Spring Term, check Handshake regulary <br/>
 ## Resume
