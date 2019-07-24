@@ -6,8 +6,9 @@ Intended audiences of this website are those who hope to get into one or more of
  * Software Engineering
  * Product Management
  * Data Science
-
- #### Contributing 
+ 
+ 
+#### Contributing 
 If you find incorrect information or typo, please send a pull request. If you are not familiar with Github, just open an [Issue](https://github.com/hikarimn/lu_ComputerScience/issues). <br/>
 
 Have questions? Ask [here](https://github.com/hikarimn/lu_ComputerScience/issues).
