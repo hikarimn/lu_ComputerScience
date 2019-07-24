@@ -1,4 +1,4 @@
-The title says landing on internship, but preparation part is almost same for landing on full-time job imo. <br/>
+The title says landing on internship, but preparation part is almost same for landing on full-time job imo.
 As a person who goes to liberal arts college (LAC), LAC students tend to be surrounded by less information about career development compared to those who go to big universities. 
 This website aims to provide students at Lawrence with concrete, useful, and up-to-date resources. These are what I wish I knew when I was a freshman or a sophomore.
 <br/>
@@ -57,15 +57,13 @@ When you have time, I recommend to go to Hackathon. It is a great place to learn
 * Women in Computer Science - I plan to start running from Fall 2019 Woohoo
 
 #### On-campus Employment
-Most of them do recruiting in Spring Term, check Handshake regulary
-| Title | Department | Notes | # of students hired /year |
-|----------|----------|----------|----------|
-| Student Web Developer | IT | Web Dev. (PHP, frontend)| a few |
-| IT Assistant| IT | IT | a few |
-| Research Assistant | CS/Math fac. | Varies | zero or one |
-| Tech Crew | Warch | Varies | a few |
 
+ * Student Web Developer - IT - Web Dev. (PHP, frontend)
+ * IT Assistant - IT - IT
+ * Research Assistant - CS/Math faculty
+ * Tech Crew - Warch
 
+Most of them do recruiting in Spring Term, check Handshake regulary <br/>
 ## Resume
 * [This pdf](https://drive.google.com/file/d/10b9NZDhPbUOW_C7108IKe9ev6Ed2UG7F/view?usp=sharing) - Possibly the best guide for those who aim to be an engineer
 * [This email blog](https://2by22.blog) by a person in Strategy&Analytics @ Linkedin - Learn how to _strategically_ go through recruiting
