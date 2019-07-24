@@ -54,6 +54,7 @@ When you have time, I recommend to go to Hackathon. It is a great place to learn
 * Women in Computer Science - I plan to start running from Fall 2019 Woohoo
 
 #### On-campus Employment
+
 | Title | Department | Notes | # of students hired /year
 | ----- | ---------- | ----- |  ----- | 
 | Student Web Developer | IT | Web Dev. (PHP, frontend)| a few |
