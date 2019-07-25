@@ -1,35 +1,37 @@
-The title says landing on internship, but preparation part is almost same for landing on full-time job imo.
-As a person who goes to liberal arts college (LAC), LAC students tend to be surrounded by less information about career development compared to those who go to big universities. 
-This website aims to provide students at Lawrence with concrete, useful, and up-to-date resources. These are what I wish I knew when I was a freshman or a sophomore.
-<br/>
-Intended audiences of this website are those who hope to get into one or more of following career fields:
- * Software Engineering
- * Product Management
- * Data Science
-<br/>
-
- #### Contributing 
- Currently, I am activity editing content for this website. If you find incorrect information or typo, please send a pull request. If you are not familiar with Github, just open an [Issue](https://github.com/hikarimn/lu_ComputerScience/issues). <br/>
-
-Have questions? Ask [here](https://github.com/hikarimn/lu_ComputerScience/issues).
 # Index
-* [Things to do before applying for a job or an internship](#things-to-do-before-applying-for-a-job-or-internship)
+* [Motivation of this webpage](#motivation-of-this-webpage)
+    * [Contributing to this page](#contributing-to-this-page)
+    * [Ask a question](#ask-a-question)
+* [Things to do before applying for a job or an internship](#things-to-do-before-applying-for-a-job-or-an-internship)
     * [Getting Experience](#getting-experience)
         * [Personal Project](#personal-project)
         * [Course Project](#course-project)
         * [Hackathon](#hackathon)
         * [On campus Organization](#on-campus-organization)
         * [On campus Employment](#on-campus-employment)
-       
-    * [Preparing Resume](#resume)
+    * [Preparing A Resume](#preparing-a-resume)
     * [Networking](#networking)
         * [Recruiters](#recruiters)
         * [Alumni](#alumni)
+            * [Mentorship Program](#mentorship-program)
         * [Community Organization](#community-organization)
         * [Career fair and other events](#career-fair-and-other-events)
-    * [Preparing for Interviews](#technical-interviews)
+    * [Preparing for Technical Interviews](#preparing-for-technical-interviews)
 * [Getting an Internships Offer](#getting-an-internship-offer)
 
+# Motivation of this webpage
+As a person who goes to liberal arts college (LAC), LAC students tend to be surrounded by less information about career development compared to those who go to big universities. 
+This website aims to provide students at Lawrence with concrete, useful, and up-to-date resources. These are what I wish I knew when I was a freshman or a sophomore. The title says landing on internship, but preparation part is almost same for landing on full-time job imo. <br/>
+Intended audiences of this website are those who hope to get into one or more of following career fields:
+ * Software Engineering
+ * Product Management
+ * Data Science 
+
+#### Contributing to this page
+Currently, I am activity editing content for this website. If you find useful information that you want to share, incorrect information or typo, please send a pull request. If you are not familiar with Github, just open an [Issue](https://github.com/hikarimn/lu_ComputerScience/issues).
+
+#### Ask a question
+Have a question? Request for more information? Ask [here](https://github.com/hikarimn/lu_ComputerScience/issues).
 
 # Things to do before applying for a job or an internship
 ## Getting experience
@@ -42,7 +44,6 @@ It is standard that a resume for technical roles has a project section. The next
 I highley recommend starting this as soon as possible. I am emphasizing this because you can start personal projects from right now. Growing technical skills in internship is a goog plan, but gettting one technical internship can be hard if you have no prior experience in software development.   <br/>
 The project can start small, [a simple Java game](http://zetcode.com/tutorials/javagamestutorial/) or [a single page of webpage with HTML](https://coder-coder.com/how-to-make-simple-website-html/) for instance. It is a good practice to come up with some software solution to your daily issues. If you do not come up with a project idea, think about tools or languages that you hope to learn. <br/> 
 
-=
 Here are some references 
 * [What are the projects a first year computer science student can do in the summer?](https://www.quora.com/What-are-the-projects-a-first-year-computer-science-student-can-do-in-the-summer)
 * [24 Ultimate Data Science Projects To Boost Your Knowledge and Skills](https://www.analyticsvidhya.com/blog/2018/05/24-ultimate-data-science-projects-to-boost-your-knowledge-and-skills/)
@@ -62,14 +63,13 @@ When you have time, go to Hackathon. It is a great place to learn new skills and
 * Women in Computer Science - I plan to start running from Fall 2019 Woohoo
 
 #### On-campus Employment
-
  * Student Web Developer - IT - Web Dev. (PHP, frontend)
  * IT Assistant - IT - IT
  * Research Assistant - CS/Math faculty
  * Tech Crew - Warch
- Most of them do recruiting in Spring Term, check Handshake regulary <br/>
+ Most of them do recruiting in Spring Term, check [Handshake](https://lawrence.joinhandshake.com) regulary <br/>
 
-## Preparing Resume
+## Preparing a Resume
 I first recommend you to read [this guide on how to build a rockstar resume](How_to_Write_a_Rockstar_Resume_2_by_22_Guide.pdf), especially page 14-18 on how to write effective bullets. Then, use [this guide by a software engineer](Resume_tips.pdf
 ) to make it more tech industry specific. The latter guide is possibly the best guide for those who aim to be working in tech industry. Also, [this email blog](https://2by22.blog) by a person who made the former guide is helpful for learn how to _strategically_ go through recruiting. I highly recommend to subscribe.
 
@@ -80,14 +80,16 @@ Go to career forum hosted by LU Career Services in Fall. After meeting, send ema
 Even cold emails/messages sometimes work. Don't know recruiters' email address? Check out this [Facebook Group](https://www.facebook.com/groups/2054888934622756/).
 #### Alumni 
 Use LinkedIn, Voyager directory, Career Services to find alumni who seem to be doing works of your interest, email to them. Ask for a coffee/phone call/email exchange to know more about them and their works. If possible, ask them about recruiting information they know
+###### Mentorship Program
+* [LI Alumni Mentoring Program (LIAM)](https://www.lawrence.edu/students/international/current/li-alumni-mentoring-program-liam-)
 #### Community Organization
-(Women in Tech) Be on their email lists
-* https://rewritingthecode.org
-* https://www.hiretechladies.com
-* https://girlswhocode.com
-* https://www.womentechmakers.com/membership
-* https://www.witwisconsin.com <br/>
-and many more
+Be on their email list, join their facebook/slack groups to catch up with coming opportunities
+(Women in Tech) 
+* [Rewriting The Code](https://rewritingthecode.org) - Membership, Fellowship
+* [Tech Ladies](https://www.hiretechladies.com) - Job Board
+* [Girls Who Code](https://girlswhocode.com)
+* [Women Tech Makers](https://www.womentechmakers.com/membership) - Membership, Scholarship
+* [Women in Tech Wisconsin](https://www.witwisconsin.com) - Membership ∂
 
 #### Career Fair and other events
 * [Externs.com](https://www.xterns.com) - A website listening tech/business/non-profits short-term events sponsored by variety of companies and organizations
@@ -100,12 +102,12 @@ and many more
 * [Cracking The Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850) - A book that has everything, does not a lot of questions imo, good for entry point (but physically heavy)
 
 ## Getting an internship offer 
-(I will add more. Wait for it)<br/>
+I will add more stuff here soon. If you need information urgently, contact me: hikari DOT r DOT mine AT gmail DOT com<br/>
 Start early!!!!
 
 ### Where to find postings
 * [This Github repo](https://github.com/elaine-zheng/summer2020internships/blob/master/README.md) for Summer 2020
 
 <div align="right">
-    <b><a href="#index">↥ back to top</a></b>
+    <b><a href="#index">↥ Back to Top</a></b>
 </div>
