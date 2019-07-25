@@ -1,5 +1,6 @@
 # Index
 * [Motivation of this webpage](#motivation-of-this-webpage)
+    * [Note to freshmen and sophomores](#note-to-freshmen-and-sophomores)
     * [Contributing to this page](#contributing-to-this-page)
     * [Ask a question](#ask-a-question)
 * [Things to do before applying for a job or an internship](#things-to-do-before-applying-for-a-job-or-an-internship)
@@ -9,11 +10,10 @@
         * [Hackathon](#hackathon)
         * [On campus Organization](#on-campus-organization)
         * [On campus Employment](#on-campus-employment)
-    * [Preparing A Resume](#preparing-a-resume)
+    * [Preparing a Resume](#preparing-a-resume)
     * [Networking](#networking)
         * [Recruiters](#recruiters)
         * [Alumni](#alumni)
-            * [Mentorship Program](#mentorship-program)
         * [Community Organization](#community-organization)
         * [Career fair and other events](#career-fair-and-other-events)
     * [Preparing for Technical Interviews](#preparing-for-technical-interviews)
@@ -26,6 +26,9 @@ Intended audiences of this website are those who hope to get into one or more of
  * Software Engineering
  * Product Management
  * Data Science 
+
+#### Note to freshmen and sophomores
+The companies do not necesarily target underclassmen for internship opportunities. Yet, there are tons of things that you can do to gain experience other than internships. I hear that starting early and applying to smaller companies can help you get an internship.
 
 #### Contributing to this page
 Currently, I am activity editing content for this website. If you find useful information that you want to share, incorrect information or typo, please send a pull request. If you are not familiar with Github, just open an [Issue](https://github.com/hikarimn/lu_ComputerScience/issues).
@@ -63,11 +66,12 @@ When you have time, go to Hackathon. It is a great place to learn new skills and
 * Women in Computer Science - I plan to start running from Fall 2019 Woohoo
 
 #### On-campus Employment
+ Most of them do recruiting in Spring Term, check [Handshake](https://lawrence.joinhandshake.com) regulary
+
  * Student Web Developer - IT - Web Dev. (PHP, frontend)
  * IT Assistant - IT - IT
  * Research Assistant - CS/Math faculty
  * Tech Crew - Warch
- Most of them do recruiting in Spring Term, check [Handshake](https://lawrence.joinhandshake.com) regulary <br/>
 
 ## Preparing a Resume
 I first recommend you to read [this guide on how to build a rockstar resume](How_to_Write_a_Rockstar_Resume_2_by_22_Guide.pdf), especially page 14-18 on how to write effective bullets. Then, use [this guide by a software engineer](Resume_tips.pdf
@@ -80,19 +84,20 @@ Go to career forum hosted by LU Career Services in Fall. After meeting, send ema
 Even cold emails/messages sometimes work. Don't know recruiters' email address? Check out this [Facebook Group](https://www.facebook.com/groups/2054888934622756/).
 #### Alumni 
 Use LinkedIn, Voyager directory, Career Services to find alumni who seem to be doing works of your interest, email to them. Ask for a coffee/phone call/email exchange to know more about them and their works. If possible, ask them about recruiting information they know
-###### Mentorship Program
+__Mentorship Program__
 * [LI Alumni Mentoring Program (LIAM)](https://www.lawrence.edu/students/international/current/li-alumni-mentoring-program-liam-)
 #### Community Organization
 Be on their email list, join their facebook/slack groups to catch up with coming opportunities
-(Women in Tech) 
-* [Rewriting The Code](https://rewritingthecode.org) - Membership, Fellowship
-* [Tech Ladies](https://www.hiretechladies.com) - Job Board
+__Women in Tech__ 
+* [Rewriting The Code](https://rewritingthecode.org) - [Membership](https://rewritingthecode.org/membership/), [Fellowship](https://rewritingthecode.org/fellowship/)
+* [Built By Girls](https://www.builtbygirls.com) - [Mentorship](https://www.builtbygirls.com/about-wave), [Job Board](https://jobs.builtbygirls.com)
+* [Tech Ladies](https://www.hiretechladies.com) - [Job Board](https://www.hiretechladies.com/jobs)
 * [Girls Who Code](https://girlswhocode.com)
-* [Women Tech Makers](https://www.womentechmakers.com/membership) - Membership, Scholarship
-* [Women in Tech Wisconsin](https://www.witwisconsin.com) - Membership ∂
+* [Women Tech Makers](https://www.womentechmakers.com) - [Membership](https://www.womentechmakers.com/membership), [Scholarship](https://www.womentechmakers.com/scholars)
+* [Women in Tech Wisconsin](https://www.witwisconsin.com) - [Membership](https://www.witwisconsin.com/Membership)
 
 #### Career Fair and other events
-* [Externs.com](https://www.xterns.com) - A website listening tech/business/non-profits short-term events sponsored by variety of companies and organizations
+* [Xterns.com](https://www.xterns.com) - A website listening tech/business/non-profits short-term events sponsored by variety of companies and organizations
 * (Women in Tech) [A list of GHC Scholarships](https://github.com/Ladies-Storm-Hackathons/GHC-Scholarships) - A github repo listing scholarships information for [Grace Hopper Celebration](https://ghc.anitab.org). Sometimes there are incorrect info, I recommend checking pull request/issues regulary and official company/organization websites
 * [This super usuful website listing scholarhsip information for CS conferences](https://techlovers2020.github.io/Opportunities/)
 
@@ -102,11 +107,8 @@ Be on their email list, join their facebook/slack groups to catch up with coming
 * [Cracking The Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850) - A book that has everything, does not a lot of questions imo, good for entry point (but physically heavy)
 
 ## Getting an internship offer 
-I will add more stuff here soon. If you need information urgently, contact me: hikari DOT r DOT mine AT gmail DOT com<br/>
-Start early!!!!
-
-### Where to find postings
-* [This Github repo](https://github.com/elaine-zheng/summer2020internships/blob/master/README.md) for Summer 2020
+Start preparing above stuff as early as possible, especially if you are a sophomore or a foreign citizen trying to get an internship next summer. Internship online applications open in July or August for large companies. Smaller companies' ones open later. For summer 2020, [this Github repo](https://github.com/elaine-zheng/summer2020internships/blob/master/README.md) lists a bunch of internships. You can also find openings on online job board such as LinkedIn or Indeed. Then, referral helps you land on the first interview, so try to get one from networks you built. It is said that applying online is the least likely way to land on the first interview. Building connection with recruiters and contacting to recruiters after you submit your app helps your resume be read for sure. 
+Once you schedule an interview, read Glassdoor reviews and talk to past interns to prepare for the potential interview questions. 
 
 <div align="right">
     <b><a href="#index">↥ Back to Top</a></b>
