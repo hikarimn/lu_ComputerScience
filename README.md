@@ -17,9 +17,12 @@
         * [Community Organization](#community-organization)
         * [Career fair and other events](#career-fair-and-other-events)
     * [Preparing for Technical Interviews](#preparing-for-technical-interviews)
-* [Getting an Internships Offer](#getting-an-internship-offer)
+* [Timeline for getting an internships offer](#timeline-for-getting-an-internship-offer)
+    * [Throughout year](#throughout-year-and-especillay-during-breaks)
+    * [Summer after freshman/sophomore/junior year](#summer)
+    * [Fall](#fall)
 
-# Motivation of this webpage
+# Motivation of this page
 As a person who goes to a liberal arts college (LAC), LAC students tend to be surrounded by less information about career development compared to those who go to big universities.
 This website aims to provide students at Lawrence with concrete, useful, and up-to-date resources. These are what I wish I knew when I was a freshman or a sophomore. The title says landing on an internship, but preparation part is almost the same for landing on full-time job imo.  <br/>
 Intended audiences of this website are those who hope to get into one or more of following career fields:
@@ -52,6 +55,11 @@ Here are some references
 * [24 Ultimate Data Science Projects To Boost Your Knowledge and Skills](https://www.analyticsvidhya.com/blog/2018/05/24-ultimate-data-science-projects-to-boost-your-knowledge-and-skills/)
 * [How to Develop Project Ideas for Your UX Portfolio](https://uxmastery.com/how-to-develop-project-ideas-for-your-ux-portfolio/)
 
+If you just started coding and do not know where to start, following online tutorials is a good idea. You can find tutorial videos on YouTube(free) or Udemy($10+ per course). <br/>
+Here are some references
+* [Web Development Courses on Udemy](https://www.udemy.com/topic/web-development/)
+* [Web Development Tutorial for Beginners (#1) - How to build webpages with HTML, CSS, Javascript](https://www.youtube.com/watch?v=3JluqTojuME)
+* [Introduction to Data Science with R - Data Analysis Part 1](https://www.youtube.com/watch?v=32o0DnuRjfg)
 
 #### Course Project
 You can call the stuff you made in course as a project. For example, when you made a website front-end in Web Client Programming class, you can call it a project. If an assignment you completed in a course is tangible, you can call it a project (as far as you can explain what you accomplished in the project). For more information about classes at Lawrence, see [this](https://github.com/hikarimn/lu_cs/blob/master/courses.md).
@@ -88,6 +96,8 @@ Recruiters can be a direct point of contact to companies. You can reach out to t
 
 #### Community Organization
 These communities helps you connect to people with similar interest and informs you about what other students are doing in order to get more experience and to develop their career. <br/>
+I recently find [a spreadsheet that lists online communities around technology](https://docs.google.com/spreadsheets/d/1O97qjuCc6erLIcJiedPrsq3G9E2ECio_iltuF-YADtI/edit?usp=sharing). <br/>
+
 __Women in Tech__ 
 * [Rewriting The Code](https://rewritingthecode.org) - [Membership](https://rewritingthecode.org/membership/), [Fellowship](https://rewritingthecode.org/fellowship/)
 * [Built By Girls](https://www.builtbygirls.com) - [Mentorship](https://www.builtbygirls.com/about-wave), [Job Board](https://jobs.builtbygirls.com)
@@ -108,9 +118,32 @@ __Women in Tech__
 * [Leetcode](https://leetcode.com)
 * [Cracking The Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850) - A book that has everything, does not a lot of questions imo, good for entry point (but physically heavy)
 
-## Getting an internship offer 
-Start preparing the above stuff as early as possible, especially if you are a sophomore or a foreign citizen trying to get an internship next summer. Internship online applications open in July or August for large companies. Smaller companies' ones open later. For summer 2020, [this Github repo](https://github.com/elaine-zheng/summer2020internships/blob/master/README.md) lists a bunch of internships. You can also find openings on online job board such as LinkedIn or Indeed. Then, referral helps you land on the first interview, so try to get one from the networks you built. It is said that applying online is the least likely way to land on the first interview. Building connection with recruiters and contacting to recruiters after you submit your app helps your resume be read for sure. 
-Once you schedule an interview, read Glassdoor reviews and talk to past interns to prepare for the potential interview questions. 
+## Timeline for getting an internship offer 
+
+### Throughout year and especillay during breaks
+* [Practice coding interview skills]((#preparing-for-technical-interviews))
+* [Participate in Hackathons]((#hackathon))
+* [Work on course/personal projects]((#personal-project))
+
+### Summer
+(Summer after freshmen/sophomore/junior year)
+* Getting organized  <br/> Think about what roles and which companies you will apply for coming fall, make a spreadsheet to organize application status.
+* [Making your resume perfect](#preparing-a-resume) <br/> If possible, try to have your resume reviewed by professionals
+* [Network with alumni](#alumni)  <br/> If you are traveling to somewhere, network with alumni in the area. 
+* Attend career fairs/company open house/webinar and [network with recruiters](#recruiters)  <br/> Find the nearby events to get to know recruiters and companies. If you are not in city, find webinars online where companies introduce their works. In my case, information about these come from [active communtiy organizations]( #community-organization).
+* Work on your [personal projects](#personal-project)
+* Study for [technical interviews](#preparing-for-technical-interviews)
+* Getting referrals <br/> I highly recommend getting a referral from someone worked/working in the company before applying for internships. Referrals make your application stand a little (a tiny little) out of candidates pool.  For me, most of my referrals come from members of [active communtiy organizations]( #community-organization). (Now you see the importance of getting into communities, right?)
+* [August] Start applying to internships in big companies. Big companies open their application for competitive positions open in July to Auguest. 
+
+### Fall
+
+* Start applying to internships in big companies. <br/>For summer 2020, [this Github repo](https://github.com/elaine-zheng/summer2020internships/blob/master/README.md) lists a bunch of internships.
+* Attend career fair/hackathon/webinars
+* Follow up with recruiters when you do not hear back in 2 weeks after applying
+* Preparing for interviews <br/> Either it is an onsite or a phone call interview, research about companies and think about why you want to work for them beforehand. Prepare questions to ask to interviewers as well. Read Glassdoor reviews and talk to past interns to know the atmosphere of the interview. You can also ask to recruiters what they look to know more in the interivew (Do they look to know your technical skills? personalities?).
+
+
 
 <div align="right">
     <b><a href="#index">↥ Back to Top</a></b>
