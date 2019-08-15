@@ -127,21 +127,21 @@ __Women in Tech__
 
 ### Summer
 (Summer after freshmen/sophomore/junior year)
-* Getting organized  <br/> Think about what roles and which companies you will apply for coming fall, make a spreadsheet to organize application status.
-* [Making your resume perfect](#preparing-a-resume) <br/> If possible, try to have your resume reviewed by professionals
+* Get organized  <br/> Think about what roles and which companies you will apply for coming fall, make a spreadsheet to organize application status.
+* [Make your resume perfect](#preparing-a-resume) <br/> If possible, try to have your resume reviewed by professionals
 * [Network with alumni](#alumni)  <br/> If you are traveling to somewhere, network with alumni in the area. 
 * Attend career fairs/company open house/webinar and [network with recruiters](#recruiters)  <br/> Find the nearby events to get to know recruiters and companies. If you are not in city, find webinars online where companies introduce their works. In my case, information about these come from [active communtiy organizations]( #community-organization).
 * Work on your [personal projects](#personal-project)
 * Study for [technical interviews](#preparing-for-technical-interviews)
-* Getting referrals <br/> I highly recommend getting a referral from someone worked/working in the company before applying for internships. Referrals make your application stand a little (a tiny little) out of candidates pool.  For me, most of my referrals come from members of [active communtiy organizations]( #community-organization). (Now you see the importance of getting into communities, right?)
-* [August] Start applying to internships in big companies. Big companies open their application for competitive positions open in July to Auguest. 
+* Get referrals <br/> I highly recommend getting a referral from someone worked/working in the company before applying for internships. Referrals make your application stand a little (a tiny little) out of candidates pool.  For me, most of my referrals come from members of [active communtiy organizations]( #community-organization). (Now you see the importance of getting into communities, right?)
+* [August] Apply to internships in big companies. Big companies open their application for competitive positions in July to Auguest. 
 
 ### Fall
 
-* Start applying to internships in big companies. <br/>For summer 2020, [this Github repo](https://github.com/elaine-zheng/summer2020internships/blob/master/README.md) lists a bunch of internships.
-* Attend career fair/hackathon/webinars
+* Apply to internships in big companies. <br/>For summer 2020, [this Github repo](https://github.com/elaine-zheng/summer2020internships/blob/master/README.md) lists a bunch of internships.
 * Follow up with recruiters when you do not hear back in 2 weeks after applying
-* Preparing for interviews <br/> Either it is an onsite or a phone call interview, research about companies and think about why you want to work for them beforehand. Prepare questions to ask to interviewers as well. Read Glassdoor reviews and talk to past interns to know the atmosphere of the interview. You can also ask to recruiters what they look to know more in the interivew (Do they look to know your technical skills? personalities?).
+* Attend career fair/hackathon/webinars (see [Summer section](#summer))
+* Prepare for interviews <br/> Either it is an onsite or a phone call interview, research about companies and think about why you want to work for them beforehand. Prepare questions to ask to interviewers as well. Read Glassdoor reviews and talk to past interns to know the atmosphere of the interview. You can also ask to recruiters what they look to know more in the interivew (Do they look to know your technical skills? personalities?). 
 
 
 
