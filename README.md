@@ -1,5 +1,5 @@
 # Index
-* [Motivation of this webpage](#motivation-of-this-webpage)
+* [Motivation of this webpage](#motivation-of-this-page)
     * [Note to freshmen and sophomores](#note-to-freshmen-and-sophomores)
     * [Contributing to this page](#contributing-to-this-page)
     * [Ask a question](#ask-a-question)
