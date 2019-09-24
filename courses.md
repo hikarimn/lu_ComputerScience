@@ -11,7 +11,7 @@ Open an [issue]((https://github.com/hikarimn/lu_ComputerScience/issues)) if you 
 | CMSC      | 210      | Introduction to Scientific Programming |                                        | C                     | x                    |                    |              |
 | CMSC      | 250      | Intermediate Programming Concepts      | Backend, Database                      | Java, MySQL, Spring   | x                    | x                  |              |
 | CMSC      | 270      | Introduction to Data Structures        | Algorithms, OOP                        | C++                   | x                    |                    |              |
-| CMSC      | 410      | Systems Analysis and Design            | Backend, Database, Distributed Systems |                       |                      |                    |              |
+| CMSC      | 410      | Systems Analysis and Design            | Backend, Database, Distributed Systems |                       | x                    |                    |              |
 | CMSC      | 420      | Computer Graphics                      |                                        | C++                   |                      |                    |              |
 | CMSC      | 470      | Artificial Intelligence                |                                        | Java, Prolog          |                      |                    | x            |
 | CMSC      | 480      | Systems Programming                    | Operating System                       | C++                   | x                    |                    |              |
@@ -23,4 +23,4 @@ Open an [issue]((https://github.com/hikarimn/lu_ComputerScience/issues)) if you 
 | MATH      | 430      | Statistical Modeling                   |                                        | R                     |                      |                    | x            |
 | MATH      | 445      | Mathematical Statistics                |                                        |                       |                      |                    | x            |
 | MATH      | 450      | Bayesian Statistics                    |                                        |                       |                      |                    | x            |
-| RLST      | 245      | Apple, Google, Facebook                | Technology and Society                 |                       |                      | x                  |              |
+| RLST      | 245      | Apple, Google, Facebook                | Technology and Society                 |                       | x                    | x                  | x            |
