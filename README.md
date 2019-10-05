@@ -15,6 +15,7 @@
         * [Recruiters](#recruiters)
         * [Alumni](#alumni)
         * [Community Organization](#community-organization)
+        * [Conferences and Scholarships](#conferences-and-scholarships)
         * [Career fair and other events](#career-fair-and-other-events)
     * [Preparing for Technical Interviews](#preparing-for-technical-interviews)
 * [Timeline for getting an internships offer](#timeline-for-getting-an-internship-offer)
@@ -71,25 +72,24 @@ When you have time, go to Hackathon. It is a great place to learn new skills and
 ### Work Experience
 #### On-campus Organization
 * Makerspace
-* Women in Computer Science - I plan to start running from Fall 2019 Woohoo
+* Womxn in Computer Science - I just started running from Fall 2019 Woohoo
 
 #### On-campus Employment
  They do recruiting in Spring Term, check [Handshake](https://lawrence.joinhandshake.com) regulary
 
  * Student Web Developer - IT - Web Dev. (PHP, frontend)
- * IT Assistant - IT - IT
+ * IT Assistant - IT - Probably more hardware maintainance(?)
  * Research Assistant - CS/Math faculty
- * Tech Crew - Warch
+ * Tech Crew - Warch - Probably more hardware maintainance(?)
 
 ## Preparing a Resume
 I first recommend you to read [this guide on how to build a rockstar resume](How_to_Write_a_Rockstar_Resume_2_by_22_Guide.pdf), especially page 14-18 on how to write effective bullets. Then, use [this guide by a software engineer](Resume_tips.pdf
 ) to make it more tech industry specific. The latter guide is possibly the best guide for those who aim to be working in the tech industry. Also, [this email blog](https://2by22.blog) by a person who made the former guide helps learn how to _strategically_ go through recruiting. I highly recommend subscribing.
 
 ## Networking
-_This section is under an active edit._  <br/>
 
 #### Alumni 
-When you find alumni who do interesting works, do reach out! LinkedIn, Voyager directory, Career Services are all useful tools to do so. Get their contact information and reach out. Ask for a coffee/phone call/email exchange to know more about them and their works. If possible, ask them about recruiting information they know. If you are an F1 Visa holder, check out [LI Alumni Mentoring Program (LIAM)](https://www.lawrence.edu/students/international/current/li-alumni-mentoring-program-liam-)
+When you find alumni who do interesting works, do reach out! LinkedIn, Voyager directory, Career Services are all useful tools to do so. Get their contact information and reach out. Ask for a coffee/phone call/email exchange to know more about them and their works. If possible, ask them about recruiting information they know. 
 
 #### Recruiters 
 Recruiters can be a direct point of contact to companies. You can reach out to them at a career fair. After meeting, send emails and LinkedIn request to the people you met. Ask if you can speak to them more about companies on call. Alternatively, you can send cold emails/messages. [This Facebook Group](https://www.facebook.com/groups/2054888934622756/) helps you find recruiters' email addresses.
@@ -98,25 +98,38 @@ Recruiters can be a direct point of contact to companies. You can reach out to t
 These communities helps you connect to people with similar interest and informs you about what other students are doing in order to get more experience and to develop their career. <br/>
 I recently find [a spreadsheet that lists online communities around technology](https://docs.google.com/spreadsheets/d/1O97qjuCc6erLIcJiedPrsq3G9E2ECio_iltuF-YADtI/edit?usp=sharing). <br/>
 
-__Women in Tech__ 
-* [Rewriting The Code](https://rewritingthecode.org) - [Membership](https://rewritingthecode.org/membership/), [Fellowship](https://rewritingthecode.org/fellowship/)
+##### Facebook groups that I found helpful to be a part of
+* [Tech Recruiter Email Sharing](https://www.facebook.com/groups/2054888934622756/) - A list of technical recruiters' emails is posted weekly here. Good resource to have when you want to follow up after your application
+* [Subtle Asian Tech](https://www.facebook.com/groups/2129028140676009/) - The membership is not limited to Asians, everyone is welcome to join!
+* [Subtle Asian Product Management](https://www.facebook.com/groups/SubtlePM/) - Again, anyone interested in Product Management can join
+* (SF, Bay Area)[Hire Club](https://www.facebook.com/groups/hireclub/) - Job postings in Bay Area
+* (SF, Bay Area)[Albert's List](https://www.facebook.com/groups/findyournextopportunity/) - Job postings in Bay Area. Non-technical jobs are also posted
+
+##### Women in Tech
+* [Rewriting The Code](https://rewritingthecode.org) - [Membership](https://rewritingthecode.org/membership/), [Fellowship](https://rewritingthecode.org/fellowship/) - Highly Recommend!!!
 * [Built By Girls](https://www.builtbygirls.com) - [Mentorship](https://www.builtbygirls.com/about-wave), [Job Board](https://jobs.builtbygirls.com)
 * [Tech Ladies](https://www.hiretechladies.com) - [Job Board](https://www.hiretechladies.com/jobs)
 * [Girls Who Code](https://girlswhocode.com)
 * [Women Tech Makers](https://www.womentechmakers.com) - [Membership](https://www.womentechmakers.com/membership), [Scholarship](https://www.womentechmakers.com/scholars)
-* [Women in Tech Wisconsin](https://www.witwisconsin.com) - [Membership](https://www.witwisconsin.com/Membership)
+* [Women in Tech Wisconsin](https://www.witwisconsin.com) - [Membership](https://www.witwisconsin.com/Membership) - Highly Recommend!!!
+
+#### Conferences and Scholarships
+* [Forbes Under 30 Summit](https://live.forbes.com/under30) - They have scholarship that you can purchase the conference pass with 90% discount, the application for which usually is open during summer
+* [This super usuful website listing scholarhsip information for CS conferences](https://techlovers2020.github.io/Opportunities/)
+* (Minority in Tech)[ACM Richard Tapia Celebration of Diversity in Computing](http://tapiaconference.org/) - [A couple of scholarships available](http://tapiaconference.org/participate/scholarships), opens sometime in Winter term
+* (Women in Tech)[Grace Hopper Celebration](https://ghc.anitab.org) - The biggest gathering of women in tech. There is [an unofficial list of scholarships sponsored by various companies](https://github.com/Ladies-Storm-Hackathons/GHC-Scholarships).
+
 
 #### Career Fair and other events
 * [Xterns.com](https://www.xterns.com) - A website listening tech/business/non-profits short-term events sponsored by variety of companies and organizations
-* (Women in Tech) [A list of GHC Scholarships](https://github.com/Ladies-Storm-Hackathons/GHC-Scholarships) - A github repo listing scholarships information for [Grace Hopper Celebration](https://ghc.anitab.org). Sometimes there are incorrect info, I recommend checking pull request/issues regulary and official company/organization websites
-* [This super usuful website listing scholarhsip information for CS conferences](https://techlovers2020.github.io/Opportunities/)
-* Shadow Silicon Valley Trip organized by LU Career Service in Spring Break. The application opens in Winter term.
-* Lawrence Scholars in Business Chicago trip organized by LU Career Services in Fall term reading period.
+* Shadow Silicon Valley Trip organized by LU Career Service in Spring Break. The application opens in Winter term
+* Lawrence Scholars in Business Chicago trip organized by LU Career Services in Fall term reading period
 
 ### Preparing for Technical Interviews
 * [This post](https://medium.com/@sophia.onion/software-engineer-job-search-resources-94206f03affb) by Lawrence CS alumna 
 * [Leetcode](https://leetcode.com)
-* [Cracking The Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850) - A book that has everything, does not a lot of questions imo, good for entry point (but physically heavy)
+* [Cracking The Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850) - A book that has everything, reach out to me if you want a free pdf copy
+* [Cracking The PM Interview](https://www.amazon.com/Cracking-PM-Interview-Product-Technology/dp/0984782818) - This is for aspiring Product Manager
 
 ## Timeline for getting an internship offer 
 
