@@ -40,9 +40,7 @@ Currently, I am activity editing content for this website. If you find useful in
 #### Ask a question
 Have a question? Request for more information? Ask [here](https://github.com/hikarimn/lu_ComputerScience/issues).
 
-_Disclaimer_
-* Information listed here may be wrong or outdated because this list initially started for recording purpose for the author. If you find incorrect information, please let me know by making a pull request or opening an issue
-* This note does not list enough information for Product Mangement or Data Science track folks. I am working on it
+_Disclaimer_ _:_ _Information listed here may be wrong or outdated because this list initially started as a personal note for the author. If you find incorrect information, please let me know by making a pull request or opening an issue. Also, this note does not cover enough information for Product Mangement or Data Science track folks. I am working on it_ _:)_
 
 # Things to do before applying for a job or an internship
 ## Getting experience
