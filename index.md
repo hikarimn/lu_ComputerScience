@@ -146,7 +146,7 @@ I recently find [a spreadsheet that lists online communities around technology](
 * [Cracking The Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850) - A book that has everything, reach out to me if you want a free pdf copy
 * [Cracking The PM Interview](https://www.amazon.com/Cracking-PM-Interview-Product-Technology/dp/0984782818) - This is for aspiring Product Manager
 
-## Timeline for getting an internship offer 
+# Timeline for getting an internship offer 
 
 ### Throughout year and especillay during breaks
 
