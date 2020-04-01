@@ -86,9 +86,9 @@ When you have time, go to Hackathon. It is a great place to learn new skills and
  They do recruiting in Spring Term, check [Handshake](https://lawrence.joinhandshake.com) regularly
 
  * Student Web Developer - IT - Web Dev. (PHP, frontend)
- * IT Assistant - IT - Probably more hardware maintenance(?)
+ * IT Assistant - IT - Probably more hardware maintenance
  * Research Assistant - CS/Math faculty
- * Tech Crew - March - Probably more hardware maintenance(?)
+ * Tech Crew - Warch - Probably more hardware maintenance
 
 ## 2. Preparing a Resume
 
